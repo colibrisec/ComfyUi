@@ -14,7 +14,7 @@ python3-matplotlib \
 python3-mpmath \
 python3-onnx \
 python3-pandas \
-python3-svglib
+python3-svglib \
 && apt clean
 
 COPY scripts/.  /scripts/
